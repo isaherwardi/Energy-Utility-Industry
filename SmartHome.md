@@ -24,7 +24,7 @@ Energy Efficiency and Savings: This is a major benefit for both your wallet and 
 
 Accessibility: Smart home technology can greatly improve the quality of life for individuals with disabilities or limited mobility. Voice commands and remote controls can simplify daily tasks like turning on lights, adjusting the thermostat, or opening doors.
 
-## Increased Home Value: As smart home technology becomes more mainstream, homes equipped with integrated systems are increasingly attractive to buyers and can command a higher value.
+Increased Home Value: As smart home technology becomes more mainstream, homes equipped with integrated systems are increasingly attractive to buyers and can command a higher value.
 
 ![Smart Home](/images/Slide4.JPG)
 
@@ -40,3 +40,4 @@ Accessibility: Smart home technology can greatly improve the quality of life for
 
 
 ![Smart Home](/images/Slide33.JPG)
+
