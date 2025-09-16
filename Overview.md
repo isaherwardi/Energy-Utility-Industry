@@ -1,8 +1,6 @@
 # Energy Industry Overview
 
-[Text]
 
-![Energy Types](/images/Slide5.JPG)
 
 ![Smart Grid](/images/Slide3.JPG)
 
@@ -61,5 +59,6 @@ A feedback loop that re-feeds the data sources from the results from the analyti
  
 
 ![img](/images/Enterprise_Arch_Utilities.png)
+
 
 Figure 1. Conceptual model of an example of next generation Enterprise Architecture as an enabler for digital transformation
