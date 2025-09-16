@@ -1,7 +1,5 @@
 # Energy Generation
 
-[Text]
-
 ![Solar Energy Generation](/images/Slide7.JPG)
 
 https://en.wikipedia.org/wiki/Solar_energy
@@ -39,3 +37,4 @@ Hydroelectric power plants generate power using the force of water to turn gener
 ![Wind Energy Generation using turbines](/images/Slide15.JPG)
 
 ![Energy Generation using Waste heat](/images/Slide16.JPG)
+
