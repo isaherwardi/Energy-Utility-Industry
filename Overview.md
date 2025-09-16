@@ -1,9 +1,9 @@
 # Energy Industry Overview
-
+![Energy Types](/images/Slide5.JPG)
 ## Smart Grid
-
+![Smart Grid](/images/Slide3.JPG)
 ## Smart Home
-
+![Smart Home](/images/Slide4.JPG)
 ## An architectural blue-print in the context of a utility company
 
 A conceptual model of an example architecture is shown in Figure 1. When this model is applied in the context of a utility company, the most important elements can be explained and illustrated:
@@ -60,4 +60,5 @@ A feedback loop that re-feeds the data sources from the results from the analyti
 
 
 Figure 1. Conceptual model of an example of next generation Enterprise Architecture as an enabler for digital transformation
+
 
