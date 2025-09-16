@@ -1,4 +1,5 @@
 # Digital Utility
+
 A Digital Utility is the next-generation model of an energy or water utility that leverages digital technologies, data, and automation to deliver energy (or utility services) more efficiently, sustainably, and customer-centric than traditional models. It’s a core enabler of the energy transition.
 
 Here’s a structured breakdown:
@@ -145,6 +146,7 @@ AI-based anomaly detection for cyber-physical attacks.
 Resilient Microgrids for disaster recovery.
 
 ✅ In short: Digital utilities are becoming AI-driven, data-centric, customer-focused, and sustainable enterprises — evolving from “power providers” into digital service platforms at the core of smart cities.
+
 
 
 
