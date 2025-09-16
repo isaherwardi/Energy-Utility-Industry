@@ -8,14 +8,6 @@ In addition, the integration of different sources of energy generation in an inc
 
 Modern energy and utilities management systems should be able to exploit a large volume of data collected by various types of meters on a number of variables of interest for a certain industrial operation, assembling the above concepts – extensive monitoring, the Industrial Internet of Things, analyses of large volumes of data, and efficiency and sustainability – around a common, integrated, and robust objective.
 
-Techtalk Energy Industry - by - Irfan Saherwardi
-
-https://web.microsoftstream.com/video/020f50d2-db46-4d25-8e90-abc674e90b44 
-
-Videos from the Global DXC A&E Energy and Utilities Industry Community of Practice
-
-https://web.microsoftstream.com/channel/d5a02296-e455-461c-b32d-fd1b274243d1
-
 ## Business Areas
 
 ![Energy Industry](/images/Slide5.JPG)
@@ -26,5 +18,6 @@ https://web.microsoftstream.com/channel/d5a02296-e455-461c-b32d-fd1b274243d1
 4. [Residential - Smart Home](SmartHome.md)
 5. [Innovation in Energy Industry](Innovation.md)
 6. [Digital Utility](DigitalUtility.md)
+
 
 
