@@ -28,12 +28,3 @@ https://web.microsoftstream.com/channel/d5a02296-e455-461c-b32d-fd1b274243d1
 6. [Digital Utility](DigitalUtility.md)
 
 
-
-
-
-![Digital Transformation](./images/Digital_Transformation.jpg)
-
-## Solving Business Problems
-
-![Disruptive Technologies](/images/Disruptive_Technologies.jpg)
-
