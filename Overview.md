@@ -1,6 +1,7 @@
 # Energy Industry Overview
-## Smart Grid
 ![Energy Types](/images/Slide5.JPG)
+## Smart Grid
+![Smart Grid](/images/SmartGrid.JPG)
 ## Smart Home
 ![Smart Home](/images/Slide4.JPG)
 ## An architectural blue-print in the context of a utility company
@@ -59,6 +60,7 @@ A feedback loop that re-feeds the data sources from the results from the analyti
 
 
 Figure 1. Conceptual model of an example of next generation Enterprise Architecture as an enabler for digital transformation
+
 
 
 
