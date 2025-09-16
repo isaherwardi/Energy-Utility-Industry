@@ -29,47 +29,11 @@ https://web.microsoftstream.com/channel/d5a02296-e455-461c-b32d-fd1b274243d1
 
 
 
-## EA Model
 
-![Functional Areas](/images/EA_Model-Detailed.jpg)
-
-## BVF for Energy Industry
-
-![BVF](/images/BVF_for_Energy_Industry.jpg)
-
-## 5D View of Energy Industry
-
-![5DView](/images/5D_view.jpg)
-
-
-![Screenshot](https://github.dxc.com/isaherwardi/Energy-Industry/blob/Energy-Industry-Overview/Energy%20Industary%20Value%20Generators.jpg)
-
-
-![Screenshot](https://github.dxc.com/isaherwardi/Energy-Industry/blob/Energy-Industry-Overview/Energy%20Industary%20REvenue%20Creation%20Process.jpg)
-
-
-![Screenshot](https://github.dxc.com/isaherwardi/Energy-Industry/blob/Energy-Industry-Overview/Energy%20Industary%20Ent%20Admin%20and%20Mgmt%20Process.jpg)
-
-## Utility Industry and Solutions
-
-![IndustrySolutions](/images/UIS.jpg)
-
-## BVF Centrica UseCase
-
-![BVF](/images/Centrica_UseCase.jpg)
-
-## Centrica Global Energy Supply & Service Line of Business Model
-
-![BVF](/images/Centrica_GES&SLBusinessModel.jpg)
-
-## DXC offering for Utility Industry
-
-![DXC offerings](/images/DXC_offerings_in_Utility_Industry.jpg)
-
-## Digital Transformation
 
 ![Digital Transformation](./images/Digital_Transformation.jpg)
 
 ## Solving Business Problems
 
 ![Disruptive Technologies](/images/Disruptive_Technologies.jpg)
+
