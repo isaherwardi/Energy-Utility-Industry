@@ -10,14 +10,13 @@ Modern energy and utilities management systems should be able to exploit a large
 
 ## Business Areas
 
-![Energy Industry](/images/Slide5.JPG)
-
 1. [Energy Industry Overview](Overview.md)
 2. [Energy Generation](EnergyGeneration.md)
 3. [Transmission and Distribution - Smart Grid](SmartGrid.md)
 4. [Residential - Smart Home](SmartHome.md)
 5. [Innovation in Energy Industry](Innovation.md)
 6. [Digital Utility](DigitalUtility.md)
+
 
 
 
